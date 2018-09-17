@@ -14,8 +14,7 @@ If the user navigates to any other route, they'll be prompted with a 404 respons
 
 ** The code comes from the 'Starting a Server', 'Parsing Request Paths', and 'Routing Requests' videos.
 
-*** The only change i had to do to make it work was to change this bit of code
-*** from this :
+*** The only change i had to do to make it work was to change this bit of code from this :
 
 
       // Use the Payload called by the handler, or default to empty object
